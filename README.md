@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on ...
+- 🎓 I’m currently enrolled in Georgia Tech's Fullstack Bootcamp
 - 🌱 I’m currently learning Express.js, SQL, OOP, ORM, and utilizing MVC's
 - 👯 I’m looking to collaborate on both the front end and back end such as UX/UI projects, Software Engineering, Web3
 - 🤔 I’m looking for help with Web3 Development
