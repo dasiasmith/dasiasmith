@@ -10,4 +10,4 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I ran track in college (long & triple jump)
 
-[![Dasia's GitHub stats](https://github-readme-stats.vercel.app/api?username=dasiasmith)](https://github.com/dasiasmith/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dasiasmith)](https://github.com/dasiasmith/github-readme-stats)
